@@ -6,5 +6,6 @@
 </head>
 <body>
 <p>nuevo texto</p>
+<p>nuevo 2</p>
 </body>
 </html>
